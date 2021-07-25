@@ -1,0 +1,27 @@
+.r1 >a{
+    padding: 5px 50px;
+}
+
+.r1{
+    background-color: yellow;
+}
+
+.r1 >b{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.r3{
+    
+}
+
+.c1{
+    padding: 10px;
+    align-content: center;
+}
+
+.c2{
+    padding: 10px
+}
+
